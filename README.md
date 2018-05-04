@@ -28,6 +28,7 @@ o	Openly Licensed College Textbooks (by Rice University and the Bill & Melinda G
 
 Online IT Security Resources (still no-cost)<br />
 •	Infrastructure Security & General InfoSec<br />
+o	https://adsecurity.org<br />
 o	https://www.blackhat.com/html/archives.html (Years’ worth of whitepapers, source code, and sometimes even video/audio presentations)<br />
 o	https://www.coursebuffet.com/areas (webportal to courses by Coursera, Udacity, edX, the OpenCourseWare consortium, Saylor, and many others)<br />
 o	http://www.cyberaces.org/ (by SANS)<br />
