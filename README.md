@@ -1,6 +1,6 @@
 # FreeInfoSecTraining
 
-I put this list together in order to share training and learning material for folks in information security and/or looking to move into the infosec field.<br />
+I put this list together in order to share no-cost training and learning material for folks in information security and/or looking to move into the infosec field.<br />
 <br />
 In order to keep the list as concise as possible, I decided not to include every site on the internet with some training material, and instead focus on sites with larger repositories and repositories with specialized material.<br />
 <br />
