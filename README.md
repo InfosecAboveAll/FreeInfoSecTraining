@@ -1,6 +1,6 @@
 # FreeInfoSecTraining
 Free InfoSec Training<br />
-I put this list together in order to share training and learning material for folks in security and/or looking to move into the infosec field.<br />
+I put this list together in order to share training and learning material for folks in information security and/or looking to move into the infosec field.<br />
 
 BlackHat and DefCon Videos<br />
 •	2017 (youtube)<br />
