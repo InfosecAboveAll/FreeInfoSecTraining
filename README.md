@@ -43,11 +43,12 @@ o	https://www.sans.org/reading-room/categories <br />
 o	http://www.securitytube.net/ <br />
 o	https://trailofbits.github.io/ctf/index.html <br />
 <br />
-•	Coding/Scripting/Programming<br />
-o	http://www.codecademy.com/ <br />
+•	Scripting & Programming & Reverse Engineering<br />
+o	http://www.codecademy.com/<br />
 o	http://codehs.com/ <br />
 o	https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory (by Stanford, Princeton, and other universities)<br />
 o	https://www.edx.org/course-list/allschools/computer-science/allcourses (by Harvard and MIT – includes MOOC courses)<br />
+o	http://fuzzysecurity.com/tutorials.html<br />
 o	https://www.khanacademy.org/cs (largest free online education system)<br />
 o	https://code.msdn.microsoft.com/ <br />
 o	http://securitytrainings.net/ (malware reversing & analysis courses) <br />
