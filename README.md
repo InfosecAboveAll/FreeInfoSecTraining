@@ -1,5 +1,6 @@
 # FreeInfoSecTraining
-Free InfoSec Training
+Free InfoSec Training<br />
+I put this list together in order to share training and learning material for folks in security and/or looking to move into the infosec field.<br />
 
 BlackHat and DefCon Videos<br />
 •	2017 (youtube)<br />
@@ -8,6 +9,7 @@ o	DefCon 25 – https://www.youtube.com/watch?v=FNtVqHaWFbU&list=PL9fPq3eQfaaDOo
 o	BlackHat Europe 2017 – https://www.youtube.com/watch?v=vmzjzPpzecQ&list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB<br />
 o	BlackHat Asia 2017 – https://www.youtube.com/watch?v=s95CQNntunQ&list=PLH15HpR5qRsWx4qw9ZlgmisHOcKG4ZcRS<br />
 <br />
+
 Books<br />
 •	Full Books<br />
 o	Microsoft Books<br />
