@@ -1,12 +1,12 @@
 # FreeInfoSecTraining
 Free InfoSec Training
 
-BlackHat and DefCon Videos
-•	2017 (youtube)
-o	BlackHat 2017 – https://www.youtube.com/watch?v=YJOMTAREFtY&list=PLH15HpR5qRsUyGhBVRDKGrHyQC5G4jQyd
-o	DefCon 25 – https://www.youtube.com/watch?v=FNtVqHaWFbU&list=PL9fPq3eQfaaDOo8mTBHhEHMfuG2LNUSTC
-o	BlackHat Europe 2017 – https://www.youtube.com/watch?v=vmzjzPpzecQ&list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB
-o	BlackHat Asia 2017 – https://www.youtube.com/watch?v=s95CQNntunQ&list=PLH15HpR5qRsWx4qw9ZlgmisHOcKG4ZcRS
+BlackHat and DefCon Videos<br />
+•	2017 (youtube)<br />
+o	BlackHat 2017 – https://www.youtube.com/watch?v=YJOMTAREFtY&list=PLH15HpR5qRsUyGhBVRDKGrHyQC5G4jQyd<br />
+o	DefCon 25 – https://www.youtube.com/watch?v=FNtVqHaWFbU&list=PL9fPq3eQfaaDOo8mTBHhEHMfuG2LNUSTC<br />
+o	BlackHat Europe 2017 – https://www.youtube.com/watch?v=vmzjzPpzecQ&list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB<br />
+o	BlackHat Asia 2017 – https://www.youtube.com/watch?v=s95CQNntunQ&list=PLH15HpR5qRsWx4qw9ZlgmisHOcKG4ZcRS<br />
 
 Books
 •	Full Books
