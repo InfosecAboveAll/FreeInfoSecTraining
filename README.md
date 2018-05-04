@@ -1,6 +1,10 @@
 # FreeInfoSecTraining
-Free InfoSec Training<br />
+
 I put this list together in order to share training and learning material for folks in information security and/or looking to move into the infosec field.<br />
+<br />
+In order to keep the list as concise as possible, I decided not to include every site on the internet with some training material, and instead focus on sites with larger repositories and repositories with specialized material.<br />
+<br />
+I review and update the list a few times a year, so please feel free to share links to this repo so others can stay up-to-date as well.<br />
 
 BlackHat and DefCon Videos<br />
 •	2017 (youtube)<br />
@@ -13,13 +17,13 @@ o	BlackHat Asia 2017 – https://www.youtube.com/watch?v=s95CQNntunQ&list=PLH15H
 Books<br />
 •	Full Books<br />
 o	Microsoft Books<br />
-	https://mva.microsoft.com/ebooks<br />
-	https://blogs.msdn.microsoft.com/mssmallbiz/category/ebooks/<br />
-	Free eBooks from Microsoft about nearly every Microsoft product.  First batch is from July 2016, and second batch is from July 2017.<br />
+?	https://mva.microsoft.com/ebooks<br />
+?	https://blogs.msdn.microsoft.com/mssmallbiz/category/ebooks/<br />
+?	Free eBooks from Microsoft about nearly every Microsoft product.  First batch is from July 2016, and second batch is from July 2017.<br />
 o	PacktPub.com – 1 free e-book daily<br />
-	https://www.packtpub.com/packt/offers/free-learning<br />
+?	https://www.packtpub.com/packt/offers/free-learning<br />
 o	Openly Licensed College Textbooks (by Rice University and the Bill & Melinda Gates Foundation)<br />
-	https://openstax.org/<br />
+?	https://openstax.org/<br />
 <br />
 
 Online IT Security Resources (still no-cost)<br />
