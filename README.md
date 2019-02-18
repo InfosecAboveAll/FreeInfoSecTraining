@@ -34,6 +34,7 @@ o	https://www.coursebuffet.com/areas (webportal to courses by Coursera, Udacity,
 o	http://www.cyberaces.org/ (by SANS)<br />
 o	https://www.cybrary.it/cyber-security/ <br />
 o	http://defcon.org/html/links/dc-archives.html (Years’ worth of whitepapers, source code, and sometimes even video/audio presentations)<br />
+o	https://www.dfir.training/tools/tools/test-images-and-challenges <br />
 o	http://resources.infosecinstitute.com/ <br />
 o	http://tools.kali.org/tools-listing <br />
 o	http://www.offensive-security.com/metasploit-unleashed/Main_Page <br />
